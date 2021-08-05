@@ -7,27 +7,27 @@
   I live on Jundiaí - São Paulo, Brazil and currently working with web development 
 </p>
 
-<a href = "mailto:vivianeerina@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/viviane-ogata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:vivianeerina@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Outlook-333333?style=flat&logo=microsoft-outlook&color=blue" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/viviane-ogata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&color=blue" target="_blank"></a>   
 </div>
 
 ----
 
 ### 💼 Technologies & Tools:
 <div style="display: inline_block">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+  <img align="center" alt="Vue.js" src="https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=Vue.JS" />
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img align="center" alt="SASS" src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" />
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+  <img align="center" alt="GitLab" src="https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab" />
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
 </div>
 
 ----
