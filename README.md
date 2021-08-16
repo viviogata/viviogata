@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  I live on Jundiaí - São Paulo, Brazil and currently working with web development 
+  I live in Jundiaí - São Paulo, Brazil and currently working with web development 
 </p>
 
 <a href = "mailto:vivianeerina@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Outlook-333333?style=flat&logo=microsoft-outlook&color=blue" target="_blank"></a> 
